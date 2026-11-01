@@ -40,6 +40,12 @@ Machine Learning course project, German International University (GIU), Cairo. T
 Python · NumPy · pandas · scikit-learn · Matplotlib · Google Colab
 
 
+## Contents
+
+| File | Description |
+|---|---|
+| [`rush_hour.ipynb`](rush_hour.ipynb) | Full pipeline, Phases 0–5, with outputs and figures |
+
 ## Dataset
 
 UCI Bike Sharing dataset (hourly). Training data covers days 1–19 of each month; the test set is the 20th of every month.
